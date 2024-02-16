@@ -10,4 +10,13 @@
 body{
     background-color: var(--cor-de-fundo);
     color: var(--branco);
+    font-family: 'Dosis';
+}
+
+
+.botao{
+    font-family: 'Dosis';
+    background-color: var(--botao-inativo);
+    color: var(--branco);
+    font-size: 18px;
 }
